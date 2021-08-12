@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanishq Rajput.
-- 👀 I’m interested in CP,Open source,cyber security and robotics.
+- 👀 I’m interested in CP and Open source.
 - 🌱 I’m currently learning CP.
 - 📫 Reach me: ertanishqrajput@gmail.com
 
