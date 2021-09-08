@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanishq Rajput.
 - 👀 I’m interested in CP and Open source.
-- 🌱 I’m currently learning Web developement.
+- 🌱 I’m currently learning Web developement & Android developement.
 - 📫 Reach me: ertanishqrajput@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
